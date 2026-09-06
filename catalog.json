@@ -1,0 +1,450 @@
+{
+  "generated_at": "2026-09-06T13:46:16.206192+00:00",
+  "brand_count": 14,
+  "document_count": 16,
+  "brands": [
+    "Bosch Rexroth",
+    "Yuken",
+    "Parker",
+    "Nachi",
+    "Tokyo Keiki",
+    "HYDAC",
+    "ATOS",
+    "HAWE",
+    "Sun Hydraulics",
+    "Danfoss",
+    "Walvoil",
+    "VALVOLE ITALIA",
+    "ARGO-HYTOS",
+    "Bucher Hydraulics"
+  ],
+  "errors": [],
+  "documents": [
+    {
+      "id": "cb6b3fd9fe90a7",
+      "brand": "ARGO-HYTOS",
+      "title": "RPR3-04 / RPR3-06 directional control valves",
+      "url": "https://www.argo-hytos.com/products/valves/directional-control-valves.html?v=1.0.23",
+      "source_type": "official_web",
+      "categories": [
+        "방향제어"
+      ],
+      "models": [
+        "RPR3-04",
+        "DN04",
+        "D02",
+        "RPR3-06",
+        "DN06",
+        "D03"
+      ],
+      "specs": {
+        "pressure": [
+          "320 BAR",
+          "350 BAR"
+        ],
+        "flow": [
+          "30 L/MIN",
+          "80 L/MIN"
+        ],
+        "voltage": [],
+        "size": [
+          "D02",
+          "D03"
+        ],
+        "port": []
+      },
+      "excerpt": "RPR3-04 4/2 and 4/3 directional control valve Q max 30 l/min P max 320 bar DN04 D02 HA 4018. RPR3-06 Q max 80 l/min P max 350 bar DN06 D03 HA 4004.",
+      "search_text": "ARGO-HYTOS RPR3-04 / RPR3-06 directional control valves RPR3-04 4/2 and 4/3 directional control valve Q max 30 l/min P max 320 bar DN04 D02 HA 4018. RPR3-06 Q max 80 l/min P max 350 bar DN06 D03 HA 4004. RPR3-04 DN04 D02 RPR3-06 DN06 D03 320 BAR 350 BAR 30 L/MIN 80 L/MIN D02 D03 방향제어"
+    },
+    {
+      "id": "a24dd7748d22d4",
+      "brand": "ARGO-HYTOS",
+      "title": "ST21A-B2 flow control cartridge valve",
+      "url": "https://www.argo-hytos.com/products/valves/flow-control-valves/vso1-04r-1.html",
+      "source_type": "official_web",
+      "categories": [
+        "카트리지"
+      ],
+      "models": [
+        "ST21A-B2",
+        "C-10-2"
+      ],
+      "specs": {
+        "pressure": [
+          "350 BAR"
+        ],
+        "flow": [
+          "140 L/MIN"
+        ],
+        "voltage": [],
+        "size": [],
+        "port": [
+          "C-10-2",
+          "7/8-14 UNF"
+        ]
+      },
+      "excerpt": "ST21A-B2 needle restrictor flow control cartridge valve Q max 140 l/min P max 350 bar C-10-2 7/8-14 UNF datasheet HA 5134.",
+      "search_text": "ARGO-HYTOS ST21A-B2 flow control cartridge valve ST21A-B2 needle restrictor flow control cartridge valve Q max 140 l/min P max 350 bar C-10-2 7/8-14 UNF datasheet HA 5134. ST21A-B2 C-10-2 350 BAR 140 L/MIN C-10-2 7/8-14 UNF 카트리지"
+    },
+    {
+      "id": "60227bc6993d52",
+      "brand": "VALVOLE ITALIA",
+      "title": "Load holding / counterbalance valve catalog",
+      "url": "https://www.valvoleitalia.it/catalogo/",
+      "source_type": "official_web",
+      "categories": [
+        "압력제어",
+        "체크",
+        "카운터밸런스/로드홀딩"
+      ],
+      "models": [
+        "I08",
+        "I10",
+        "I12",
+        "I16",
+        "SAE08",
+        "SAE10",
+        "SAE12",
+        "SAE16",
+        "SAE20",
+        "T11A",
+        "T17A",
+        "T19A",
+        "T21A"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [
+          "1.5 LPM",
+          "480 LPM"
+        ],
+        "voltage": [],
+        "size": [],
+        "port": [
+          "SAE08",
+          "SAE10",
+          "SAE12",
+          "SAE16",
+          "SAE20"
+        ]
+      },
+      "excerpt": "Load Holding Valves Check Valves Relief Valves Sequence Valves Pressure Reducing Valves. Cavities I08 I10 I12 I16 SAE08 SAE10 SAE12 SAE16 SAE20 T11A T17A T19A T21A. Capacity 1.5 Lpm to 480 Lpm. Pilot ratios 1:1 2:1 3:1 4:1 5:1 7.5:1 8:1 10:1 13:1 15:1.",
+      "search_text": "VALVOLE ITALIA Load holding / counterbalance valve catalog Load Holding Valves Check Valves Relief Valves Sequence Valves Pressure Reducing Valves. Cavities I08 I10 I12 I16 SAE08 SAE10 SAE12 SAE16 SAE20 T11A T17A T19A T21A. Capacity 1.5 Lpm to 480 Lpm. Pilot ratios 1:1 2:1 3:1 4:1 5:1 7.5:1 8:1 10:1 13:1 15:1. I08 I10 I12 I16 SAE08 SAE10 SAE12 SAE16 SAE20 T11A T17A T19A T21A 1.5 LPM 480 LPM SAE08 SAE10 SAE12 SAE16 SAE20 압력제어 체크 카운터밸런스/로드홀딩"
+    },
+    {
+      "id": "852f673189846a",
+      "brand": "Walvoil",
+      "title": "Compact Hydraulics SAE cavity cartridge valves",
+      "url": "https://www.walvoil.com/catalogs-and-documentation-download?idFamDownload=10",
+      "source_type": "official_web",
+      "categories": [
+        "압력제어",
+        "카트리지"
+      ],
+      "models": [
+        "MC10MV",
+        "MC12A",
+        "MC10M"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "SAE CAVITY CARTRIDGES VALVES pressure control valves pressure relief valves MC10MV MC12A MC10M datasheets and catalogs.",
+      "search_text": "Walvoil Compact Hydraulics SAE cavity cartridge valves SAE CAVITY CARTRIDGES VALVES pressure control valves pressure relief valves MC10MV MC12A MC10M datasheets and catalogs. MC10MV MC12A MC10M 압력제어 카트리지"
+    },
+    {
+      "id": "7145aa6713b7b7",
+      "brand": "Walvoil",
+      "title": "Directional valves catalogs",
+      "url": "https://www.walvoil.com/catalogs-and-documentation-download?idFamDownload=60",
+      "source_type": "official_web",
+      "categories": [
+        "방향제어"
+      ],
+      "models": [
+        "SDM080",
+        "SDM110",
+        "SDM081",
+        "SD4",
+        "SD5",
+        "SDM100",
+        "SD11",
+        "SDM140",
+        "DLM140",
+        "SD14",
+        "SD18",
+        "M45",
+        "M50"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Directional Valves monoblock valves SDM080 SDM110 SDM081 SD4 SD5 SDM100 SD11 SDM140 DLM140 SD14 SD18 M45 M50 catalogs.",
+      "search_text": "Walvoil Directional valves catalogs Directional Valves monoblock valves SDM080 SDM110 SDM081 SD4 SD5 SDM100 SD11 SDM140 DLM140 SD14 SD18 M45 M50 catalogs. SDM080 SDM110 SDM081 SD4 SD5 SDM100 SD11 SDM140 DLM140 SD14 SD18 M45 M50 방향제어"
+    },
+    {
+      "id": "e177eec6d7a7f9",
+      "brand": "Nachi",
+      "title": "NACHI Standard Hydraulic Equipment valve index",
+      "url": "https://www.nachi-fujikoshi.co.jp/eng/web/hydraulic/index.html",
+      "source_type": "official_web",
+      "categories": [
+        "방향제어",
+        "압력제어",
+        "유량제어",
+        "비례/서보",
+        "모듈러"
+      ],
+      "models": [
+        "G01",
+        "G03",
+        "G04"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": [
+          "G01",
+          "G03",
+          "G04"
+        ]
+      },
+      "excerpt": "NACHI Hydraulic Valves Modular Valves G01 G03 G04 OR ORO ORD OG OGB OGS OQ OCQ OW OY OCY OF OCF OC OCV Solenoid Valve Pressure Control Valve Flow Control Valve Direction Control Valves Electro-hydraulic control Valve Hydro-logic Valve.",
+      "search_text": "Nachi NACHI Standard Hydraulic Equipment valve index NACHI Hydraulic Valves Modular Valves G01 G03 G04 OR ORO ORD OG OGB OGS OQ OCQ OW OY OCY OF OCF OC OCV Solenoid Valve Pressure Control Valve Flow Control Valve Direction Control Valves Electro-hydraulic control Valve Hydro-logic Valve. G01 G03 G04 G01 G03 G04 방향제어 압력제어 유량제어 비례/서보 모듈러"
+    },
+    {
+      "id": "a1c410a7140693",
+      "brand": "Parker",
+      "title": "Hydraulic Valve Systems Central catalogs",
+      "url": "https://discover.parker.com/hvscentral-catalogs",
+      "source_type": "official_web",
+      "categories": [
+        "압력제어",
+        "카트리지"
+      ],
+      "models": [
+        "MSG14-2500",
+        "MSG14-2550",
+        "MSG15-3504"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Industrial Hydraulic Valves MSG14-2500 Directional Controls Pressure Controls Sandwich Subplates Manifolds. Proportional Directional and Pressure Control Valves Servovalves MSG14-2550. Threaded Cartridge Valve Product Offerings MSG15-3504.",
+      "search_text": "Parker Hydraulic Valve Systems Central catalogs Industrial Hydraulic Valves MSG14-2500 Directional Controls Pressure Controls Sandwich Subplates Manifolds. Proportional Directional and Pressure Control Valves Servovalves MSG14-2550. Threaded Cartridge Valve Product Offerings MSG15-3504. MSG14-2500 MSG14-2550 MSG15-3504 압력제어 카트리지"
+    },
+    {
+      "id": "515795f75e7c46",
+      "brand": "Yuken",
+      "title": "Hydraulic Equipment catalogue",
+      "url": "https://www.yuken.co.jp/en/catalog_cad/openpg/opg",
+      "source_type": "official_web",
+      "categories": [
+        "방향제어",
+        "비례/서보"
+      ],
+      "models": [
+        "DSG-005",
+        "DSG-007",
+        "DSG-01",
+        "DSG-03",
+        "D24"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Hydraulic Equipment Pressure Controls Flow Controls Directional Controls Modules Logic Valves Proportional Electro-Hydraulic Controls Servo Valves. DSG-005 DSG-007 DSG-01 DSG-03 solenoid directional control valve series including D24 variants, catalog data sheet CAD.",
+      "search_text": "Yuken Hydraulic Equipment catalogue Hydraulic Equipment Pressure Controls Flow Controls Directional Controls Modules Logic Valves Proportional Electro-Hydraulic Controls Servo Valves. DSG-005 DSG-007 DSG-01 DSG-03 solenoid directional control valve series including D24 variants, catalog data sheet CAD. DSG-005 DSG-007 DSG-01 DSG-03 D24 방향제어 비례/서보"
+    },
+    {
+      "id": "6a2c7186e9f254",
+      "brand": "Danfoss",
+      "title": "Power Solutions hydraulic valves",
+      "url": "https://powersource.danfoss.com/",
+      "source_type": "official_web",
+      "categories": [
+        "방향제어",
+        "카트리지"
+      ],
+      "models": [],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Hydraulic valves Cartridge valves Directional control valves Hydraulic integrated circuit HIC Industrial valves Sub-system valves. Search by part number and document finder.",
+      "search_text": "Danfoss Power Solutions hydraulic valves Hydraulic valves Cartridge valves Directional control valves Hydraulic integrated circuit HIC Industrial valves Sub-system valves. Search by part number and document finder. 방향제어 카트리지"
+    },
+    {
+      "id": "bcf050e401f7dd",
+      "brand": "HAWE",
+      "title": "HAWE hydraulic valve products",
+      "url": "https://www.hawe.com/en-us/products/",
+      "source_type": "official_web",
+      "categories": [
+        "압력제어",
+        "유량제어",
+        "체크"
+      ],
+      "models": [],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Hydraulic valves high-pressure hydraulics pressure control valves sequence valves check valves flow control valves load-holding valve CLHV product finder data sheets.",
+      "search_text": "HAWE HAWE hydraulic valve products Hydraulic valves high-pressure hydraulics pressure control valves sequence valves check valves flow control valves load-holding valve CLHV product finder data sheets. 압력제어 유량제어 체크"
+    },
+    {
+      "id": "44bb94075bb24e",
+      "brand": "HYDAC",
+      "title": "HYDAC catalog - valves",
+      "url": "https://catalog.hydac.com/",
+      "source_type": "official_web",
+      "categories": [
+        "기타"
+      ],
+      "models": [],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "HYDAC product catalog Valves hydraulic valves search by specification pressure flow cartridge products.",
+      "search_text": "HYDAC HYDAC catalog - valves HYDAC product catalog Valves hydraulic valves search by specification pressure flow cartridge products. 기타"
+    },
+    {
+      "id": "b95d72f3cc729f",
+      "brand": "Bosch Rexroth",
+      "title": "Bosch Rexroth data sheets and catalogs",
+      "url": "https://www.boschrexroth.com/ko/kr/downloads/data-sheets/",
+      "source_type": "official_web",
+      "categories": [
+        "기타"
+      ],
+      "models": [
+        "WE6",
+        "4WE"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Bosch Rexroth hydraulic data sheets catalogs search by material number product name document edition number hydraulic valves WE6 4WE.",
+      "search_text": "Bosch Rexroth Bosch Rexroth data sheets and catalogs Bosch Rexroth hydraulic data sheets catalogs search by material number product name document edition number hydraulic valves WE6 4WE. WE6 4WE 기타"
+    },
+    {
+      "id": "03ba270d94e675",
+      "brand": "Bucher Hydraulics",
+      "title": "Valves and control block solutions",
+      "url": "https://www.bucherhydraulics.com/en/products",
+      "source_type": "official_web",
+      "categories": [
+        "기타"
+      ],
+      "models": [],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Bucher Hydraulics valves and control block solutions hydraulic products pumps motors valves cylinders power units electronics system solutions.",
+      "search_text": "Bucher Hydraulics Valves and control block solutions Bucher Hydraulics valves and control block solutions hydraulic products pumps motors valves cylinders power units electronics system solutions. 기타"
+    },
+    {
+      "id": "b9f202aae45eeb",
+      "brand": "Sun Hydraulics",
+      "title": "Sun Hydraulics products",
+      "url": "https://www.sunhydraulics.com/products",
+      "source_type": "official_web",
+      "categories": [
+        "압력제어",
+        "체크",
+        "카운터밸런스/로드홀딩",
+        "비례/서보",
+        "카트리지"
+      ],
+      "models": [],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Sun Hydraulics hydraulic cartridge valves relief valves sequence valves check valves counterbalance valves flow control directional and proportional valves.",
+      "search_text": "Sun Hydraulics Sun Hydraulics products Sun Hydraulics hydraulic cartridge valves relief valves sequence valves check valves counterbalance valves flow control directional and proportional valves. 압력제어 체크 카운터밸런스/로드홀딩 비례/서보 카트리지"
+    },
+    {
+      "id": "2472ce9c5a6f66",
+      "brand": "Tokyo Keiki",
+      "title": "Tokyo Keiki hydraulic products",
+      "url": "https://www.tokyokeiki.jp/e/products/hyd/",
+      "source_type": "official_web",
+      "categories": [
+        "비례/서보"
+      ],
+      "models": [
+        "DG4V"
+      ],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "Tokyo Keiki hydraulic valves directional control pressure control flow control proportional valves DG4V.",
+      "search_text": "Tokyo Keiki Tokyo Keiki hydraulic products Tokyo Keiki hydraulic valves directional control pressure control flow control proportional valves DG4V. DG4V 비례/서보"
+    },
+    {
+      "id": "6c7b455c86ce59",
+      "brand": "ATOS",
+      "title": "ATOS hydraulic products",
+      "url": "https://www.atos.com/",
+      "source_type": "official_web",
+      "categories": [
+        "기타"
+      ],
+      "models": [],
+      "specs": {
+        "pressure": [],
+        "flow": [],
+        "voltage": [],
+        "size": [],
+        "port": []
+      },
+      "excerpt": "ATOS hydraulic valves directional proportional servo pressure flow controls electrohydraulics.",
+      "search_text": "ATOS ATOS hydraulic products ATOS hydraulic valves directional proportional servo pressure flow controls electrohydraulics. 기타"
+    }
+  ]
+}
